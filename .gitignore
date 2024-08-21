@@ -8,4 +8,7 @@ build/*
 _C.*
 outputs/*
 checkpoints/*.pt
-notebooks/videos/icsi*
+notebooks/videos/*icsi*
+notebooks/videos/src*
+notebooks/*.pkl
+notebooks/videos/*.pkl
