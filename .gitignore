@@ -9,4 +9,3 @@ _C.*
 outputs/*
 checkpoints/*.pt
 notebooks/videos/icsi*
-notebooks/video_predictor_icsi.ipynb
